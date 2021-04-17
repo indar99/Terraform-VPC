@@ -8,5 +8,5 @@ variable "cidr2" {
 }
 
 variable "owner_id" {
-  default = "159415703522"
+  default = ""
 }
